@@ -1,0 +1,37 @@
+.
+├── autonmy.txt
+├── obinexus-legal-case
+│   ├── dag_graphs
+│   │   ├── master_proof_dag.graphml
+│   │   └── visualization
+│   ├── phase_1_verified
+│   │   ├── Compensation_Claims
+│   │   ├── Housing_Denial
+│   │   ├── index.md
+│   │   └── Legal_Verdicts
+│   ├── phase_2_print_index
+│   │   ├── Care_Records_Ellingham
+│   │   ├── Chronological_SAR_Proof
+│   │   ├── exhibit_manifest.md
+│   │   ├── Housing_Claims
+│   │   ├── NHS_Evidence
+│   │   ├── Police_Interaction
+│   │   └── System_Entrapment_Proof
+│   ├── phase_3_reform_bills
+│   │   └── draft_bills
+│   ├── README.md
+│   ├── search_index
+│   │   ├── search_api.md
+│   │   └── tag_index.json
+│   └── utilities
+│       ├── build_trie.py
+│       ├── generate_manifest.py
+│       └── validate_dag.py
+├── README.md
+├── README.md:Zone.Identifier
+└── scripts
+    └── tags_extractor
+        ├── README.md
+        └── tag_extractor.py
+
+21 directories, 14 files

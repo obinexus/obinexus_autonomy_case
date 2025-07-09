@@ -1,0 +1,35 @@
+{
+  "version": "1.0",
+  "created": "2025-07-09T13:52:22.989458",
+  "total_documents": 0,
+  "tags": {},
+  "search_aliases": {
+    "housing_denial": [
+      "housing denial",
+      "denied housing",
+      "accommodation refused"
+    ],
+    "section_202": [
+      "section 202",
+      "s202",
+      "s.202",
+      "housing act 1996"
+    ],
+    "ellingham": [
+      "ellingham hospital",
+      "ellingham placement"
+    ],
+    "sar": [
+      "subject access request",
+      "data request",
+      "sar denial"
+    ],
+    "compensation": [
+      "damages",
+      "financial remedy",
+      "181 million"
+    ]
+  },
+  "proof_chains": [],
+  "critical_documents": []
+}

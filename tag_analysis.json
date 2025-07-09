@@ -1,0 +1,14 @@
+{
+  "scan_date": "2025-07-09T13:52:22.988732",
+  "base_directory": "./obinexus-legal-case/",
+  "documents": {},
+  "tag_index": {},
+  "location_index": {},
+  "date_index": {},
+  "statistics": {
+    "total_documents": 0,
+    "tagged_documents": 0,
+    "dated_documents": 0,
+    "critical_documents": 0
+  }
+}
