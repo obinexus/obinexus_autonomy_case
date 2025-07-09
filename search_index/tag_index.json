@@ -1,0 +1,20 @@
+{
+  "housing": {
+    "denial": ["Nnamdi_Okpala_Not_Homeless.pdf", "Section_202_Application.pdf"],
+    "autonomy": ["Supported_Housing_Exit_Request.pdf"],
+    "section_202": ["Housing_Act_1996_Claim.pdf"]
+  },
+  "mental_health": {
+    "ellingham": ["Meeting_Date_12092017.pdf", "Child_Adult_Transition.pdf"],
+    "child_rights": ["Under_18_Protection_Breach.pdf"],
+    "institution": ["Developmental_Years_15_16.pdf"]
+  },
+  "sar": {
+    "denial": ["SAR_Request_Refused.pdf", "ICO_Complaint.pdf"],
+    "data_breach": ["Missing_Records.pdf"]
+  },
+  "verdict": {
+    "liability": ["Verdict.pdf"],
+    "compensation": ["2_Million_Pounds_Compensation.pdf"]
+  }
+}

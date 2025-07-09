@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+  <graph id="legal_proof" edgedefault="directed">
+    <!-- Root Claims -->
+    <node id="claim_housing_denial"/>
+    <node id="claim_disability_discrimination"/>
+    <node id="claim_child_protection_breach"/>
+    
+    <!-- Evidence Nodes -->
+    <node id="doc_not_homeless"/>
+    <node id="doc_ellingham_records"/>
+    <node id="doc_verdict"/>
+    
+    <!-- Proof Edges -->
+    <edge source="doc_not_homeless" target="claim_housing_denial"/>
+    <edge source="doc_ellingham_records" target="claim_child_protection_breach"/>
+    <edge source="claim_child_protection_breach" target="claim_disability_discrimination"/>
+    <edge source="claim_disability_discrimination" target="doc_verdict"/>
+    
+    <!-- No cycles - DAG validated -->
+  </graph>
+</graphml>
