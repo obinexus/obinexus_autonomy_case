@@ -1,0 +1,19 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+
+# Personal information
+personal_notes/
+drafts/
+
+# Large binary files (keep PDFs)
+*.zip
+*.rar
+
+# Editor files
+.vscode/
+.idea/
